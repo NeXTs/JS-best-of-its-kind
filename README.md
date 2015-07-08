@@ -9,3 +9,6 @@ https://github.com/malihu/malihu-custom-scrollbar-plugin
 
 Reveal elements on scroll
 https://github.com/jlmakes/scrollReveal.js
+
+Handle asynchronous JS
+https://github.com/caolan/async
