@@ -10,4 +10,6 @@ Reveal elements on scroll [scrollReveal](https://github.com/jlmakes/scrollReveal
 
 Handle asynchronous JS [async](https://github.com/caolan/async)
 
-Circular [countdown] (http://stachethemes.com/standalone-demos/circular-countdown/) / [soon](http://rikschennink.nl/products/soon/index.html)
+Circular [countdown] (http://tickcounterplugin.com/line/)
+
+Charts [chart] (http://www.chartjs.org/)
